@@ -1,0 +1,29 @@
+status.author                     status.filter_level               status.lang                       status.source
+status.contributors               status.geo                        status.parse                      status.source_url
+status.coordinates                status.id                         status.parse_list                 status.text
+status.created_at                 status.id_str                     status.place                      status.timestamp_ms
+status.destroy                    status.in_reply_to_screen_name    status.possibly_sensitive         status.truncated
+status.entities                   status.in_reply_to_status_id      status.retweet                    status.user
+status.favorite                   status.in_reply_to_status_id_str  status.retweet_count              
+status.favorite_count             status.in_reply_to_user_id        status.retweeted                  
+status.favorited                  status.in_reply_to_user_id_str    status.retweets                   
+
+
+status.user.contributors_enabled                status.user.is_translator                       status.user.profile_image_url_https
+status.user.created_at                          status.user.lang                                status.user.profile_link_color
+status.user.default_profile                     status.user.listed_count                        status.user.profile_sidebar_border_color
+status.user.default_profile_image               status.user.lists                               status.user.profile_sidebar_fill_color
+status.user.description                         status.user.lists_memberships                   status.user.profile_text_color
+status.user.favourites_count                    status.user.lists_subscriptions                 status.user.profile_use_background_image
+status.user.follow                              status.user.location                            status.user.protected
+status.user.follow_request_sent                 status.user.name                                status.user.screen_name
+status.user.followers                           status.user.notifications                       status.user.statuses_count
+status.user.followers_count                     status.user.parse                               status.user.time_zone
+status.user.followers_ids                       status.user.parse_list                          status.user.timeline
+status.user.following                           status.user.profile_background_color            status.user.unfollow
+status.user.friends                             status.user.profile_background_image_url        status.user.url
+status.user.friends_count                       status.user.profile_background_image_url_https  status.user.utc_offset
+status.user.geo_enabled                         status.user.profile_background_tile             status.user.verified
+status.user.id                                  status.user.profile_banner_url                  
+status.user.id_str                              status.user.profile_image_url                   
+ipdb> status.user.name
