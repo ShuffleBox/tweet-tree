@@ -1,1 +1,4 @@
 tweetstream/settings.py
+tweettree.komodoproject
+.DS_Store
+*.pyc
